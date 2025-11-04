@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Unreal/HorrorStory/DerivedDataCache
+/Unreal/HorrorStory/Intermediate
+/Unreal/HorrorStory/Saved
